@@ -1,0 +1,12 @@
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\bin\Debug\netcoreapp3.1\Hb.MarsRover.Application.deps.json
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\bin\Debug\netcoreapp3.1\Hb.MarsRover.Application.dll
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\bin\Debug\netcoreapp3.1\Hb.MarsRover.Application.pdb
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\bin\Debug\netcoreapp3.1\Hb.MarsRover.Domain.dll
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\bin\Debug\netcoreapp3.1\Hb.MarsRover.Domain.pdb
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.csprojAssemblyReference.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.AssemblyInfoInputs.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.AssemblyInfo.cs
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.csproj.CoreCompileInputs.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.csproj.CopyComplete
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.dll
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Application\obj\Debug\netcoreapp3.1\Hb.MarsRover.Application.pdb

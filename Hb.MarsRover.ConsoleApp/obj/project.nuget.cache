@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZntwF8cINP/RL9mVWY14r1no/Yoj3p/3wIWdXiYAWz0Zzr8fUqK4U4217iMC18jInftzNrWmpbKItM29aSsDHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yavuza\\source\\repos\\Hb.MarsRover\\Hb.MarsRover.ConsoleApp\\Hb.MarsRover.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yavuza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\yavuza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yavuza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\bin\Debug\netcoreapp3.1\Hb.MarsRover.Domain.deps.json
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\bin\Debug\netcoreapp3.1\Hb.MarsRover.Domain.dll
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\bin\Debug\netcoreapp3.1\Hb.MarsRover.Domain.pdb
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.csprojAssemblyReference.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.AssemblyInfoInputs.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.AssemblyInfo.cs
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.dll
+C:\Users\yavuza\source\repos\Hb.MarsRover\Hb.MarsRover.Domain\obj\Debug\netcoreapp3.1\Hb.MarsRover.Domain.pdb
